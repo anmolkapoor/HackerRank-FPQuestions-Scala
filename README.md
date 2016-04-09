@@ -2,7 +2,8 @@ Simple Repository for questions that i have solved on HackerRank (https://www.ha
 Should be helpful to look at few solutions if you are too in learning stage..
 
 Index
-=======
-# Fp Reverse A list
- Question: https://www.hackerrank.com/challenges/fp-reverse-a-list
- Solution: HackerRank-FPQuestions-Scala/src/main/scala/com/hackerRankQuestions/fpReverseAList.scala
+-----
+
+1. Fp Reverse A list
+   Question: https://www.hackerrank.com/challenges/fp-reverse-a-list
+   Solution: HackerRank-FPQuestions-Scala/src/main/scala/com/hackerRankQuestions/fpReverseAList.scala
